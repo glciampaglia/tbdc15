@@ -50,3 +50,4 @@ coverage.xml
 *.pdf
 *.hdf
 .ipynb_checkpoints
+*.png
